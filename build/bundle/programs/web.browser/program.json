@@ -1,0 +1,110 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "b4ee5fa48fadcbf96d0527f2e98cb1eac83deb6c.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/b4ee5fa48fadcbf96d0527f2e98cb1eac83deb6c.js",
+      "size": 486153,
+      "hash": "b4ee5fa48fadcbf96d0527f2e98cb1eac83deb6c"
+    },
+    {
+      "path": "04520735079d08cab5b1fd755ab9cd53701613f1.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/04520735079d08cab5b1fd755ab9cd53701613f1.css?meteor_css_resource=true",
+      "size": 166763,
+      "hash": "04520735079d08cab5b1fd755ab9cd53701613f1"
+    },
+    {
+      "path": "app/.gitkeep",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/.gitkeep",
+      "size": 1,
+      "hash": "adc83b19e793491b1c6ea0fd8b46cd9f32e592fc"
+    },
+    {
+      "path": "app/css/foundation.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/css/foundation.css",
+      "size": 193632,
+      "hash": "abb5022928af273379bbca40753f4ec81160d67a"
+    },
+    {
+      "path": "app/css/portfolio-theme.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/css/portfolio-theme.css",
+      "size": 2409,
+      "hash": "08103ee1092358af0769508502a89c5a80299711"
+    },
+    {
+      "path": "app/img/portfolio1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/portfolio1.jpg",
+      "size": 110278,
+      "hash": "ae8ce50c6b2683365aeecb460b6b8373bc552f29"
+    },
+    {
+      "path": "app/img/portfolio2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/portfolio2.jpg",
+      "size": 191165,
+      "hash": "647a0bc69b1e6d832dd4671888aee88d6d09cf46"
+    },
+    {
+      "path": "app/img/portfolio3.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/portfolio3.jpg",
+      "size": 115255,
+      "hash": "82d31e7019f5d3585c3202d0fad3716888ad01cd"
+    },
+    {
+      "path": "app/img/portfolio4.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/portfolio4.jpg",
+      "size": 45971,
+      "hash": "b675f71b9da73ac05d0a87dcd47dbfefd00403b3"
+    },
+    {
+      "path": "app/img/portfolio5.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/portfolio5.png",
+      "size": 1642804,
+      "hash": "8a0e2f1ef7cff17a26c86e37705c5198813e9e04"
+    },
+    {
+      "path": "app/img/portfolio6.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/portfolio6.jpg",
+      "size": 235824,
+      "hash": "fe9884603ba7efb5c9d2c91279910c1b2ec6e400"
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "c1cf7b7f608c2f03037d9249f8bf9cb892a7d6a7"
+    }
+  ]
+}
